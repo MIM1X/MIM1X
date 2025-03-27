@@ -4,7 +4,7 @@
 - ⚙️ Building with TypeScript and Next.js  
 - 🎨 Working with preprocessors (Sass/Less) and build systems  
 - 👥 Looking to collaborate on awesome UI/UX projects  
-- 📫 How to reach me: https://t.me/M1m1xx 
+- 📫 How to reach me: [Telegram](https://t.me/MIMX_Mk2)
 
 -------------------------------------------------------------------
 
@@ -14,7 +14,7 @@
 - 🛠️ Пишу на TypeScript и использую Next.js
 - 🎨 Работаю с препроцессорами (Sass/Less) и системами сборки
 - 💞️ Ищу коллаборации в создании крутых пользовательских интерфейсов
-- 📫 Как связаться: https://t.me/M1m1xx
+- 📫 Как связаться: [Телега](https://t.me/MIMX_Mk2)
 
 <!---
 MIM1X/MIM1X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
